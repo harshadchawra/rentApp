@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (apps/system_user)" source="apps/system_user">ff95c83121120110a866589604c20db4</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-19 13:50:40</sys_created_on>
+        <sys_id>d7c619fb2f40111024ea808cf699b60d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Rent Collection" source="x_188987_rent_co_0">6fa7457f2f00111024ea808cf699b615</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-19 13:50:40</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

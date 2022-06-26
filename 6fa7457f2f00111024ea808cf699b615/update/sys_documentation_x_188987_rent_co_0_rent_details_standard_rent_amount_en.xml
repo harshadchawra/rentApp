@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="standard_rent_amount" label="Standard Rent Amount" language="en" table="x_188987_rent_co_0_rent_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>standard_rent_amount</element>
+            <help/>
+            <hint/>
+            <label>Standard Rent Amount</label>
+            <language>en</language>
+            <name>x_188987_rent_co_0_rent_details</name>
+            <plural>Standard Rent Amounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-25 16:11:16</sys_created_on>
+            <sys_id>5980f87d2f10111024ea808cf699b6e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Standard Rent Amount</sys_name>
+            <sys_package display_value="Rent Collection" source="x_188987_rent_co_0">6fa7457f2f00111024ea808cf699b615</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent Collection">6fa7457f2f00111024ea808cf699b615</sys_scope>
+            <sys_update_name>sys_documentation_x_188987_rent_co_0_rent_details_standard_rent_amount_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-25 16:11:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

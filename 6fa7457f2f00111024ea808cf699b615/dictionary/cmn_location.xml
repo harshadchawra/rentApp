@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,hasLabels=true" label="Location" max_length="40" name="cmn_location" sizeclass="429" text_index="true" type="collection">
+        <element label="Rental" max_length="40" name="x_188987_rent_co_0_rental" type="boolean"/>
+    </element>
+</database>
