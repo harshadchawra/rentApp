@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="total_amount_paid" table="x_188987_rent_co_0_rent_paid_monthly">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="rent_card_monthly" table="x_188987_rent_co_0_rent_paid_monthly">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>format=none</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Total Amount Paid</column_label>
+        <column_label>Rent Card Monthly</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,20 +27,20 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>total_amount_paid</element>
+        <element>rent_card_monthly</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Decimal">decimal</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
-        <max_length>15</max_length>
+        <max_length>32</max_length>
         <name>x_188987_rent_co_0_rent_paid_monthly</name>
         <next_element/>
         <primary>false</primary>
         <read_only>true</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_188987_rent_co_0_rent_card_monthly">x_188987_rent_co_0_rent_card_monthly</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -47,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-06-26 11:26:19</sys_created_on>
-        <sys_id>c9e8b4462fdc111024ea808cf699b679</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Total Amount Paid</sys_name>
+        <sys_created_on>2022-06-26 12:00:06</sys_created_on>
+        <sys_id>3b70018e2fdc111024ea808cf699b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent Card Monthly</sys_name>
         <sys_package display_value="Rent Collection" source="x_188987_rent_co_0">6fa7457f2f00111024ea808cf699b615</sys_package>
         <sys_policy/>
         <sys_scope display_value="Rent Collection">6fa7457f2f00111024ea808cf699b615</sys_scope>
-        <sys_update_name>sys_dictionary_x_188987_rent_co_0_rent_paid_monthly_total_amount_paid</sys_update_name>
+        <sys_update_name>sys_dictionary_x_188987_rent_co_0_rent_paid_monthly_rent_card_monthly</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-26 12:11:53</sys_updated_on>
+        <sys_updated_on>2022-06-26 12:00:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

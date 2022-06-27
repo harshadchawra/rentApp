@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>85e8b4462fdc111024ea808cf699b687</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>400249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>payment_type</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>09e8b4462fdc111024ea808cf699b687</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c00249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>installment_1</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>89e8b4462fdc111024ea808cf699b687</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>440249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>installment_3</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>0de8b4462fdc111024ea808cf699b687</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c40249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,139 +60,181 @@
             <element>meter_reading</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>8de8b4462fdc111024ea808cf699b687</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>480249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number_of_units</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c80249ce2fdc111024ea808cf699b6bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>electricity_bill</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>01e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>4c0249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>81e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>cc0249ce2fdc111024ea808cf699b6bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>amount_paid</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>05e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>400249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>installment_2</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>85e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c00249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>installment_4</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>09e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>440249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>installment_5</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>89e8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c40249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>payment_date</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>480249ce2fdc111024ea808cf699b6bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>electricity_bill_payment_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>c80249ce2fdc111024ea808cf699b6bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_amount_paid</element>
-            <position>11</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>0de8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>4c0249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>8de8b4462fdc111024ea808cf699b688</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>cc0249ce2fdc111024ea808cf699b6bd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>additional_comments</element>
-            <position>13</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-06-26 11:26:20</sys_created_on>
-            <sys_id>01e8b4462fdc111024ea808cf699b689</sys_id>
+            <sys_created_on>2022-06-26 12:06:08</sys_created_on>
+            <sys_id>400249ce2fdc111024ea808cf699b6be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_188987_rent_co_0_rent_paid_monthly" sys_domain="global" view="Default view">3f24b0022fdc111024ea808cf699b60d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-06-26 11:26:20</sys_updated_on>
+            <sys_updated_on>2022-06-26 12:06:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -3,6 +3,7 @@
         <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="4000" name="additional_comments" type="string"/>
         <element attributes="format=none" default="0" label="Amount Paid" max_length="15" name="amount_paid" type="decimal"/>
         <element attributes="format=none" default="0" label="Electricity Bill" max_length="15" name="electricity_bill" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Electricity Bill Payment Date" max_length="40" name="electricity_bill_payment_date" type="glide_date"/>
         <element attributes="format=none" default="0" label="Installment 1" max_length="15" name="installment_1" type="decimal"/>
         <element attributes="format=none" default="0" label="Installment 2" max_length="15" name="installment_2" type="decimal"/>
         <element attributes="format=none" default="0" label="Installment 3" max_length="15" name="installment_3" type="decimal"/>
@@ -10,15 +11,21 @@
         <element attributes="format=none" default="0" label="Installment 5" max_length="15" name="installment_5" type="decimal"/>
         <element label="Meter Reading" max_length="15" name="meter_reading" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number Of Units" max_length="15" name="number_of_units" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Payment Date" max_length="40" name="payment_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Type" max_length="40" name="payment_type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Installments" value="installments"/>
                 <element inactive_on_update="false" label="One Time" value="one_time"/>
             </choice>
         </element>
+        <element label="Rent Card Monthly" max_length="32" name="rent_card_monthly" read_only="true" reference="x_188987_rent_co_0_rent_card_monthly" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element label="Total Amount Paid" max_length="15" name="total_amount_paid" read_only="true" type="decimal"/>
+        <element attributes="format=none" label="Total Amount Paid" max_length="15" name="total_amount_paid" read_only="true" type="decimal"/>
         <index name="index">
+            <element name="rent_card_monthly"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>
