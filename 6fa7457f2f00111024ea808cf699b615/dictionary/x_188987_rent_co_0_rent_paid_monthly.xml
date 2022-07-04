@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Rent Paid Monthly" max_length="40" name="x_188987_rent_co_0_rent_paid_monthly" sizeclass="0" type="collection">
+    <element label="Rent Paid Monthly" max_length="40" name="x_188987_rent_co_0_rent_paid_monthly" sizeclass="11" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="4000" name="additional_comments" type="string"/>
         <element attributes="format=none" default="0" label="Amount Paid" max_length="15" name="amount_paid" type="decimal"/>
         <element attributes="format=none" default="0" label="Electricity Bill" max_length="15" name="electricity_bill" type="decimal"/>

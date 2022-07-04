@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Rent Card Monthly" max_length="40" name="x_188987_rent_co_0_rent_card_monthly" sizeclass="1" type="collection">
+    <element label="Rent Card Monthly" max_length="40" name="x_188987_rent_co_0_rent_card_monthly" sizeclass="10" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="4000" name="additional_comments" type="string"/>
         <element attributes="format=none" label="Agreed Rent Amount" max_length="15" name="agreed_rent_amount" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
